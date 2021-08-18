@@ -1,0 +1,77 @@
+#profilePic {
+    max-width: 300px;
+    max-height: 400px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: dodgerblue;
+    border-radius: 10px;
+}
+
+#video {
+    max-height: 600px;
+    max-width: 400px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: dodgerblue;
+    border-radius: 10px;
+}
+
+#aboutMe, #myWork, #contactMe {
+    background-color: dodgerblue;
+    color: black;
+    margin-bottom: 25px;
+    font-family: 'ArchitectsDaughterRegular';
+    font-weight: normal;
+    font-style: normal;
+    display: inline-flex;
+    border-style: outset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-family: 'ArchitectsDaughterRegular';
+    font-weight: normal;
+    font-style: normal;
+    border-style: outset;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-right: 20px;
+}
+
+section {
+    display: inline-flex;
+}
+
+li {
+    display: inline;
+    margin: 100px;
+    text-align: center;
+    font-family: 'ArchitectsDaughterRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+#mainText {
+    margin-left: 150px;
+    font-family: 'ArchitectsDaughterRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+    color: white;
+}
